@@ -3,3 +3,5 @@
 bookmarklet-script-compress.html に変換コードが JS で書いてあります。
 
 スクリプトの保存機能はありません。
+
+https://ytyng.github.io/bookmarklet-script-compress/
